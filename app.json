@@ -1,5 +1,5 @@
 {
-  "name": "HK-Loader",
+  "name": "HKLoader",
   "description": "A Universal Plugin to Deploy a Non-Supported Heroku Repo without any hassle. ",
   "keywords": [
     "plugin",
