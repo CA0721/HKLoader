@@ -30,5 +30,5 @@ echo "
 █░█ █▄▀ ▄▄ █░░ █▀█ ▄▀█ █▀▄ █▀▀ █▀█
 █▀█ █░█ ░░ █▄▄ █▄█ █▀█ █▄▀ ██▄ █▀▄
                                  v1.0.0
-Repo : https://github.com/SilentDemonSD/HK-Loader By SilentDemonSD"
+Repo : https://github.com/CA0721/HKLoader By CloudPolar"
 eval "$start_cmd"
