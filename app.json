@@ -6,9 +6,9 @@
     "loader",
     "heroku"
   ],
-  "website": "https://t.me/FXTorrentz",
-  "repository": "https://github.com/SilentDemonSD/HK-Loader",
-  "success_url": "https://t.me/FXTorrentz",
+  "website": "https://t.me/CloudPolar",
+  "repository": "https://github.com/CA0721/HKLoader",
+  "success_url": "https://t.me/CloudPolar",
   "env": {
     "REPO_URL": {
       "description": "Deploy Repository URL, add Private Token if Repo is Private"
